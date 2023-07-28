@@ -1,0 +1,162 @@
+{
+  "project_info": {
+    "project_number": "738064243905",
+    "project_id": "counsellor-notification-app",
+    "storage_bucket": "counsellor-notification-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738064243905:android:4633aea715fee66bcbc840",
+        "android_client_info": {
+          "package_name": "com.app.counsller_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738064243905-8vrqa0hfiu7pt3631fdde94ftkjp96l1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.counsller_flutter",
+            "certificate_hash": "ff04200e2e621dc976a78f1fa0e46b36f1a66af2"
+          }
+        },
+        {
+          "client_id": "738064243905-3btus33ob15gqjs7v4hm8ghru34qb27f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD0Q6c-bDuHv5XmkqW2NeH8FGy34s2KpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738064243905-3btus33ob15gqjs7v4hm8ghru34qb27f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738064243905-i66197kib4hfin0k7j1fvkqogmhnhsro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.counsllerFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738064243905:android:3d1a157e1b158a00cbc840",
+        "android_client_info": {
+          "package_name": "com.app.vendorcounsellor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738064243905-3btus33ob15gqjs7v4hm8ghru34qb27f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD0Q6c-bDuHv5XmkqW2NeH8FGy34s2KpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738064243905-3btus33ob15gqjs7v4hm8ghru34qb27f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738064243905-i66197kib4hfin0k7j1fvkqogmhnhsro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.counsllerFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738064243905:android:a9fb0bc2f8d44a4ecbc840",
+        "android_client_info": {
+          "package_name": "com.listner.mycounsellor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738064243905-3btus33ob15gqjs7v4hm8ghru34qb27f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD0Q6c-bDuHv5XmkqW2NeH8FGy34s2KpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738064243905-3btus33ob15gqjs7v4hm8ghru34qb27f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738064243905-i66197kib4hfin0k7j1fvkqogmhnhsro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.counsllerFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738064243905:android:e727e219ccd863f9cbc840",
+        "android_client_info": {
+          "package_name": "com.user.mycounsellor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738064243905-3btus33ob15gqjs7v4hm8ghru34qb27f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD0Q6c-bDuHv5XmkqW2NeH8FGy34s2KpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738064243905-3btus33ob15gqjs7v4hm8ghru34qb27f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "738064243905-i66197kib4hfin0k7j1fvkqogmhnhsro.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.counsllerFlutterApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
